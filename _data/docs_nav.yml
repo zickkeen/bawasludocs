@@ -1,0 +1,43 @@
+- title: Permulaan
+  docs:
+    - link: /docs/
+    - link: /docs/instalasi-telegram/
+    - link: /docs/ruby-101/
+    - link: /docs/community/
+    - link: /docs/step-by-step/01-setup/
+- title: Manajemen User
+  docs:
+    - link: /docs/bawaslu/
+    - link: /docs/bawaslu/tambah-user-panwascam/
+    - link: /docs/bawaslu/edit-user-panwascam/
+    - link: /docs/bawaslu/hapus-user-panwascam/
+    - link: /docs/panwascam/
+    - link: /docs/bawaslu/tambah-user-pkd/
+    - link: /docs/bawaslu/edit-user-pkd/
+    - link: /docs/bawaslu/hapus-user-pkd/
+- title: Manajemen PTPS
+  docs:
+    - link: /docs/panwascam/
+    - link: /docs/panwascam/tambah-ptps/
+    - link: /docs/panwascam/edit-ptps/
+    - link: /docs/panwascam/hapus-ptps/
+    - link: /docs/pkd/
+    - link: /docs/pkd/tambah-ptps/
+    - link: /docs/pkd/edit-ptps/
+    - link: /docs/pkd/hapus-ptps/
+- title: Site Structure
+  docs:
+    - link: /docs/structure/
+    - link: /docs/liquid/
+    - link: /docs/variables/
+    - link: /docs/includes/
+    - link: /docs/layouts/
+    - link: /docs/permalinks/
+    - link: /docs/themes/
+    - link: /docs/pagination/
+- title: Guides
+  docs:
+    - link: /docs/plugins/
+    - link: /docs/migrations/
+    - link: /docs/upgrading/
+    - link: /docs/deployment/

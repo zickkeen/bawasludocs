@@ -1,0 +1,27 @@
+<header>
+  <div class="flexbox">
+    <div class="center-on-mobiles">
+      <h1>
+        <a href="{{ '/' | relative_url }}" class="logo">
+          <span class="sr-only">Bawaslu</span>
+          <img src="{{ '/img/bawaslu/apple-icon-72x72.png' | relative_url }}" width="72" height="72" alt="Bawaslu Jatim">
+        </a>
+      </h1>
+    </div>
+    <nav class="main-nav hide-on-mobiles">
+      {% include primary-nav-items.html -%}
+    </nav>
+    <div class="search hide-on-mobiles">
+      {% include search/input.html -%}
+    </div>
+    <div class="meta hide-on-mobiles">
+      <ul>
+        <li><a href="{{ site.repository }}">v{{ site.version }}</a></li>
+        <li><a href="https://jatimmengawasi.com/manajemen">Login</a></li>
+      </ul>
+    </div>
+  </div>
+  <nav class="mobile-nav show-on-mobiles">
+    {% include mobile-nav-items.html -%}
+  </nav>
+</header>
