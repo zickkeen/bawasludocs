@@ -25,7 +25,11 @@ permalink: /docs/bawaslu/tambah-user-panwascam/
 	![Tambah Pengguna]({{ '/img/contents/tambah_pengguna.jpg' | relative_url }})
 * Masukkan data pengguna
 	![Data Pengguna]({{ '/img/contents/masukkan_data_pengguna.jpg' | relative_url }})
-
+* Pastikan data sudah benar
+	![Data Pengguna]({{ '/img/contents/pastikan-data-sudah-benar.jpg' | relative_url }})
+	Pastikan data telah sesuai, dan password sesuai dengan standar keamanan. dan klik *Daftar*.
+* User telah berhasil ditambahkan
+	![Data Pengguna]({{ '/img/contents/user-berhasil-ditambah.jpg' | relative_url }})
 
 
 \* Sebaiknya gunakan PC untuk mendapatkan tampilan yang baik.

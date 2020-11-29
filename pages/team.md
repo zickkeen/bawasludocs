@@ -1,23 +1,14 @@
 ---
 layout: page
-title: The Jekyll Team
+title: Team Pengembang
 permalink: /team/
 ---
 
-## Core Team
 
-_The Jekyll Core Team's responsibility is to ensure the development and
-community around the Jekyll ecosystem thrive._
+|Category		| Pengembang			  		|
+|---------------|-------------------------------|
+|Core Dev  		| _Zick Keen (@zickkeen)_ 		|
+|Frontend Dev 	| _Erzawansyah (@erzawansyah)_ 	|
+|Bot Dev 		| _Zick Keen (@zickkeen)_ 		|
+|DevOps			| _Zick Keen (@zickkeen)_ 		|
 
-* Ashwin (@ashmaroli)
-* Frank (@DirtyF)
-* Matt (@mattr-)
-
-## Emeritus Core Team Members
-
-_Emeritus Core Team Members were once members of Jekyll's Core Team._
-
-* Alfred (@alfredxing)
-* Nick (@qrush)
-* Parker (@parkr)
-* Tom (@mojombo)
