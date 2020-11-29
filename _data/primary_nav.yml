@@ -1,7 +1,7 @@
 - title: Beranda
   link: /
   show_on_mobile: true
-- title: Tutorial
+- title: Panduan
   link: /docs/
   show_on_mobile: true
 - title: Berita

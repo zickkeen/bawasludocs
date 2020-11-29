@@ -4,13 +4,11 @@ description: instalasi telegram.
 permalink: /docs/instalasi-telegram/
 ---
 
-## Guides
-
 Untuk instalasi telegram, silahkan sesuaikan dengan platform yang anda miliki.
 
 Mobile:
-* [Android Google Play](https://telegram.org/dl/android)
-* [Android Google Play](https://telegram.org/dl/android/apk)
+* [Android (Google Play)](https://telegram.org/dl/android)
+* [Android (APK)](https://telegram.org/dl/android/apk)
 * [iOS](https://telegram.org/dl/ios)
 * [Windows Phone](https://telegram.org/dl/wp)
 
