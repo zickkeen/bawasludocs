@@ -1,21 +1,21 @@
 ---
 version: 1.0.1
 name: Dokumentasi • Bawaslu Jatim
-description: Dokumentasi sistem informasi Bawaslu Jatim
+description: dokumentasi
 url: https://docs.jatimmengawasi.com
 repository: https://github.com/zickkeen/bawasludocs
 timezone: Asia/Jakarta
 twitter:
   username: zickkeen
 logo: "/img/logo-2x.png"
-google_analytics_id: UA-50755011-1
-google_site_verification: onQcXpAvtHBrUI5LlroHNE_FP0b2qvFyPq7VZw36iEY
+google_analytics_id: UA-254213119-1
+google_site_verification: C7qraAY83vJezvPZEtX2E8SF6e13Udywm2zNS8w1u5c
 collections:
   docs:
     permalink: "/:collection/:path/"
     output: true
   posts:
-    permalink: "/news/:year/:month/:day/:title/"
+    permalink: "/berita/:year/:month/:day/:title/"
     output: true
   tutorials:
     permalink: "/:collection/:path/"
