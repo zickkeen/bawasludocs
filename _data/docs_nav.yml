@@ -15,3 +15,7 @@
   docs:
     - link: /docs/pkd/
     - link: /docs/pkd-manajemen-ptps/
+
+- title: PTPS
+  docs:
+    - link: /docs/ptps/

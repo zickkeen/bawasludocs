@@ -5,10 +5,8 @@ permalink: /team/
 ---
 
 
-|Category		| Pengembang			  		|
-|---------------|-------------------------------|
-|Core Dev  		| _Zick Keen (@zickkeen)_ 		|
-|Frontend Dev 	| _Erzawansyah (@erzawansyah)_ 	|
-|Bot Dev 		| _Zick Keen (@zickkeen)_ 		|
-|DevOps			| _Zick Keen (@zickkeen)_ 		|
+| Pengembang			  		|Category		|
+|-------------------------------|---------------|
+| _Zick Keen (@zickkeen)_ 		|Core, Backend, Bot, DevOps, Server Admin  |
+| _Erzawansyah (@erzawansyah)_ 	|Frontend 	|
 
