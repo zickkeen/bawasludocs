@@ -18,5 +18,5 @@ permalink: /docs/ptps/
 |[/ckehadiran]({{ '/docs/ptps/ckehadiran' | relative_url }})	|Mengirimkan berkas C Daftar Hadir		|
 |[/ckhusus]({{ '/docs/ptps/ckhusus' | relative_url }}) 			|Mengirimkan berkas C Kejadian Khusus	|
 |[/forma]({{ '/docs/ptps/forma' | relative_url }}) 				|Mengirimkan Dokumen Pengawasan Form A 	|
-|[/perolehanhasil]({{ '/docs/ptps/chaperolehanhasilsil' | relative_url }}) 	|Pelaporan hasil perolehan suara			|
+|[/perolehanhasil]({{ '/docs/ptps/perolehanhasil' | relative_url }}) 	|Pelaporan hasil perolehan suara			|
 |[/saya]({{ '/docs/ptps/saya' | relative_url }}) 				|Menampilkan id, nama dan username telegram 		|
